@@ -1,0 +1,54 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.mobile_map.MainActivity" >
+
+    <item
+        android:id="@+id/id_map_common"
+        android:showAsAction="never"
+        android:title="普通地图"/>
+    <item
+        android:id="@+id/id_map_site"
+        android:showAsAction="never"
+        android:title="卫星地图"/>
+    <item
+        android:id="@+id/id_map_traffic"
+        android:showAsAction="never"
+        android:title="实时交通(off)"/>
+    <item
+        android:id="@+id/id_map_mode_common"
+        android:showAsAction="never"
+        android:title="普通模式"/>
+    <item
+        android:id="@+id/id_map_location"
+        android:showAsAction="never"
+        android:title="我的位置"/>
+    <item
+        android:id="@+id/id_map_mocknav"
+        android:showAsAction="never"
+        android:title="模拟导航"/>
+    <item
+        android:id="@+id/id_map_realnav"
+        android:showAsAction="never"
+        android:title="开始导航"/>
+    <item
+        android:id="@+id/id_map_mode_following"
+        android:showAsAction="never"
+        android:title="跟随模式"/>
+    <item
+        android:id="@+id/id_map_mode_compass"
+        android:showAsAction="never"
+        android:title="罗盘模式"/>
+    <item
+        android:id="@+id/id_add_overlay"
+        android:showAsAction="never"
+        android:title="添加覆盖物"/>
+    <item
+        android:id="@+id/id_remove_overlay"
+        android:showAsAction="never"
+        android:title="移除覆盖物"/>
+    <item
+        android:id="@+id/id_map_hot"
+        android:showAsAction="never"
+        android:title="百度城市热力图"/>
+	
+</menu>

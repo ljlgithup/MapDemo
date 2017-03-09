@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">mobile_map</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_panorama_demo_activity_main">PanoramaDemoActivityMain</string>
+    <string name="title_activity_panorama">PanoramaActivity</string>
+
+</resources>
